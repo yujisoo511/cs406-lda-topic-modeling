@@ -66,3 +66,44 @@ It generates a JSON file for each document with classification details:
   "top_words": ["settlement", "approval", "final", "fee", "award"]
 }
 ```
+
+## Test sample files
+
+Final Approval
+- HOLDEN et al v. GUARDIAN ANALYTICS, INC. et al - Entry 62.pdf
+- In re Broiler Chicken Antitrust Litigation - Entry 7311.pdf
+- Lorenzo Rivera v. Marriott International, Inc. et al - Entry 103.pdf
+
+Voluntary Dismissal
+- Jar Capital, LLC v. Auburn Hills, City of - Entry 8.pdf
+- Saylor v. Caribou Biosciences, Inc. et al - Entry 33.pdf
+- Wilson v. Xerox Holdings Corporation et al - Entry 46.pdf
+
+Preliminary Approval
+─ Frasco v. Flo Health, Inc. - Entry 589.pdf
+─ Peters v. Aetna Inc. et al - Entry 322.pdf
+─ Smart et al v. NCAA - Entry 73.pdf
+
+
+### Classification output analysis:
+
+final-approval: 100.0% (3/3)
+preliminary-approval: 66.7% (2/3)
+voluntary-dismissal: 100.0% (3/3)
+
+### Overall Accuracy: 88.9% (8/9)
+
+| Document Name | True Category | Predicted Category | Confidence |
+|---------------|---------------|-------------------|------------|
+| **Final Approval Documents (3/3 correct)** |
+| HOLDEN et al v. GUARDIAN ANALYTICS, INC. et al - Entry 62 | Final Approval | Final Approval | 67.2% |
+| In re Broiler Chicken Antitrust Litigation - Entry 7311 | Final Approval | Final Approval | 100.0% |
+| Lorenzo Rivera v. Marriott International, Inc. et al - Entry 103 | Final Approval | Final Approval | 66.0% |
+| **Preliminary Approval Documents (2/3 correct)** |
+| Frasco v. Flo Health, Inc. - Entry 589 | Preliminary Approval | Preliminary Approval | 76.9% |
+| Peters v. Aetna Inc. et al - Entry 322 | Preliminary Approval | Final Approval | 80.0% |
+| Smart et al v. NCAA - Entry 73 | Preliminary Approval | Preliminary Approval | 66.7% |
+| **Voluntary Dismissal Documents (3/3 correct)** |
+| Jar Capital, LLC v. Auburn Hills, City of - Entry 8 | Voluntary Dismissal | Voluntary Dismissal | 100.0% |
+| Saylor v. Caribou Biosciences, Inc. et al - Entry 33 | Voluntary Dismissal | Voluntary Dismissal | 59.7% |
+| Wilson v. Xerox Holdings Corporation et al - Entry 46 | Voluntary Dismissal | Voluntary Dismissal | 65.9% |
