@@ -1,0 +1,36 @@
+{
+  "doc_id": "Peters v. Aetna Inc. et al - Entry 322",
+  "predicted_category": "final-approval",
+  "confidence": 0.799796586086797,
+  "category_scores": {
+    "final-approval": 0.799796586086797,
+    "preliminary-approval": 0.20020341391320293,
+    "voluntary-dismissal": 0.0
+  },
+  "top_words": [
+    "settlement",
+    "final_approval",
+    "proposed_settlement",
+    "class",
+    "preliminary_approval",
+    "approval",
+    "final",
+    "proposed",
+    "inc",
+    "order"
+  ],
+  "topic_distribution": [
+    [
+      1,
+      0.39212286472320557
+    ],
+    [
+      0,
+      0.23014336824417114
+    ],
+    [
+      7,
+      0.1557643860578537
+    ]
+  ]
+}

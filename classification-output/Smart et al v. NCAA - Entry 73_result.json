@@ -1,0 +1,36 @@
+{
+  "doc_id": "Smart et al v. NCAA - Entry 73",
+  "predicted_category": "preliminary-approval",
+  "confidence": 0.6670297730117214,
+  "category_scores": {
+    "final-approval": 0.21428390201311684,
+    "preliminary-approval": 0.6670297730117214,
+    "voluntary-dismissal": 0.11868632497516174
+  },
+  "top_words": [
+    "preliminary_approval",
+    "motion",
+    "class",
+    "preliminary_motion",
+    "settlement",
+    "proposed_settlement",
+    "preliminary",
+    "approval",
+    "class_certification",
+    "class_action"
+  ],
+  "topic_distribution": [
+    [
+      2,
+      0.5032083988189697
+    ],
+    [
+      5,
+      0.16165614128112793
+    ],
+    [
+      11,
+      0.08953716605901718
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "doc_id": "HOLDEN et al v. GUARDIAN ANALYTICS, INC. et al - Entry 62",
+  "predicted_category": "final-approval",
+  "confidence": 0.6722389423232131,
+  "category_scores": {
+    "final-approval": 0.6722389423232131,
+    "preliminary-approval": 0.32776105767678687,
+    "voluntary-dismissal": 0.0
+  },
+  "top_words": [
+    "settlement",
+    "class",
+    "preliminary_approval",
+    "proposed_settlement",
+    "class_certification",
+    "agreement",
+    "final_approval",
+    "settlement_agreement",
+    "approval",
+    "settlement_class"
+  ],
+  "topic_distribution": [
+    [
+      0,
+      0.2849004864692688
+    ],
+    [
+      7,
+      0.2149777114391327
+    ],
+    [
+      1,
+      0.15601946413516998
+    ]
+  ]
+}

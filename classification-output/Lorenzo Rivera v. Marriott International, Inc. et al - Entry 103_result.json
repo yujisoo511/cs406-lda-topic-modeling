@@ -1,0 +1,36 @@
+{
+  "doc_id": "Lorenzo Rivera v. Marriott International, Inc. et al - Entry 103",
+  "predicted_category": "final-approval",
+  "confidence": 0.6597306069991218,
+  "category_scores": {
+    "final-approval": 0.6597306069991218,
+    "preliminary-approval": 0.3402693930008782,
+    "voluntary-dismissal": 0.0
+  },
+  "top_words": [
+    "motion",
+    "final_approval",
+    "fund",
+    "class",
+    "settlement",
+    "final",
+    "reserve",
+    "approval",
+    "california",
+    "com"
+  ],
+  "topic_distribution": [
+    [
+      5,
+      0.24190789461135864
+    ],
+    [
+      9,
+      0.19628074765205383
+    ],
+    [
+      0,
+      0.13865062594413757
+    ]
+  ]
+}

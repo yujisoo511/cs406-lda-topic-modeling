@@ -1,0 +1,32 @@
+{
+  "doc_id": "Wilson v. Xerox Holdings Corporation et al - Entry 46",
+  "predicted_category": "voluntary-dismissal",
+  "confidence": 0.6589381263061196,
+  "category_scores": {
+    "final-approval": 0.34106187369388047,
+    "preliminary-approval": 0.0,
+    "voluntary-dismissal": 0.6589381263061196
+  },
+  "top_words": [
+    "voluntary_dismissal",
+    "stipulated_dismissal",
+    "dismissal",
+    "prejudice",
+    "voluntary",
+    "com",
+    "notice_voluntary",
+    "without",
+    "2025",
+    "inc"
+  ],
+  "topic_distribution": [
+    [
+      11,
+      0.6532833576202393
+    ],
+    [
+      5,
+      0.3381350040435791
+    ]
+  ]
+}

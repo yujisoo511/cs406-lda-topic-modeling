@@ -1,0 +1,36 @@
+{
+  "doc_id": "Frasco v. Flo Health, Inc. - Entry 589",
+  "predicted_category": "preliminary-approval",
+  "confidence": 0.7689171100775971,
+  "category_scores": {
+    "final-approval": 0.0,
+    "preliminary-approval": 0.7689171100775971,
+    "voluntary-dismissal": 0.23108288992240286
+  },
+  "top_words": [
+    "preliminary_approval",
+    "motion",
+    "class",
+    "preliminary_motion",
+    "settlement",
+    "proposed_settlement",
+    "preliminary",
+    "approval",
+    "class_certification",
+    "class_action"
+  ],
+  "topic_distribution": [
+    [
+      2,
+      0.35661643743515015
+    ],
+    [
+      12,
+      0.2317979633808136
+    ],
+    [
+      11,
+      0.17683635652065277
+    ]
+  ]
+}

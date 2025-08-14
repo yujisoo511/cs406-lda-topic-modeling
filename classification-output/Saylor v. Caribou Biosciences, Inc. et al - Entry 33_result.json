@@ -1,0 +1,32 @@
+{
+  "doc_id": "Saylor v. Caribou Biosciences, Inc. et al - Entry 33",
+  "predicted_category": "voluntary-dismissal",
+  "confidence": 0.5974962610662452,
+  "category_scores": {
+    "final-approval": 0.0,
+    "preliminary-approval": 0.40250373893375474,
+    "voluntary-dismissal": 0.5974962610662452
+  },
+  "top_words": [
+    "voluntary_dismissal",
+    "stipulated_dismissal",
+    "dismissal",
+    "prejudice",
+    "voluntary",
+    "com",
+    "notice_voluntary",
+    "without",
+    "2025",
+    "inc"
+  ],
+  "topic_distribution": [
+    [
+      11,
+      0.5884103178977966
+    ],
+    [
+      7,
+      0.39638298749923706
+    ]
+  ]
+}

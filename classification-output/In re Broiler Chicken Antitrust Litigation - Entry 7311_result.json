@@ -1,0 +1,36 @@
+{
+  "doc_id": "In re Broiler Chicken Antitrust Litigation - Entry 7311",
+  "predicted_category": "final-approval",
+  "confidence": 1.0,
+  "category_scores": {
+    "final-approval": 1.0,
+    "preliminary-approval": 0.0,
+    "voluntary-dismissal": 0.0
+  },
+  "top_words": [
+    "settlement",
+    "final_approval",
+    "proposed_settlement",
+    "class",
+    "preliminary_approval",
+    "approval",
+    "final",
+    "proposed",
+    "inc",
+    "order"
+  ],
+  "topic_distribution": [
+    [
+      1,
+      0.6285611987113953
+    ],
+    [
+      8,
+      0.146905317902565
+    ],
+    [
+      5,
+      0.09163149446249008
+    ]
+  ]
+}

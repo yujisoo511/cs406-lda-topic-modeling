@@ -1,0 +1,28 @@
+{
+  "doc_id": "Jar Capital, LLC v. Auburn Hills, City of - Entry 8",
+  "predicted_category": "voluntary-dismissal",
+  "confidence": 1.0,
+  "category_scores": {
+    "final-approval": 0.0,
+    "preliminary-approval": 0.0,
+    "voluntary-dismissal": 1.0
+  },
+  "top_words": [
+    "voluntary_dismissal",
+    "stipulated_dismissal",
+    "dismissal",
+    "prejudice",
+    "voluntary",
+    "com",
+    "notice_voluntary",
+    "without",
+    "2025",
+    "inc"
+  ],
+  "topic_distribution": [
+    [
+      11,
+      0.9901749491691589
+    ]
+  ]
+}
